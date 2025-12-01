@@ -406,3 +406,7 @@ For questions, collaborations, or dataset access:
 - **Paper**: [Intelligent Systems with Applications](https://doi.org/10.1016/j.iswa.2024.200429)
 - **Institution**: [ip-label africa](https://ip-label.com/)
 - **Laboratory**: [SM@RTS Lab](https://smarts.tn/)
+=======
+# ThermoVisSR
+ThermoVisSR: Multi-Scale Transformer Network for Super-Resolution of Visible and Thermal Air Images
+>>>>>>> 6c89fb774ec951557251163904bb5c944ef6f0d9
