@@ -30,7 +30,7 @@
 
 ## 🔍 Overview
 
-**ThermoVisSR** is a state-of-the-art multi-scale texture transformer designed for enhancing the super-resolution of both **visible (RGB)** and **thermal (infrared)** images of Mini/Micro UAVs. This work addresses the unique challenges of detecting and recognizing small aerial objects in video surveillance applications by leveraging dual-stream processing and reference-based super-resolution techniques.
+**ThermoVisSR** is a state-of-the-art multi-scale texture transformer designed for The super-resolution of both **visible (RGB)** and **thermal (infrared)** images of Mini/Micro UAVs. This work addresses the unique challenges of detecting and recognizing small aerial objects in video surveillance applications by leveraging dual-stream processing and reference-based super-resolution techniques.
 
 ### 🎯 Problem Statement
 
