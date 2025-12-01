@@ -59,31 +59,6 @@ ThermoVisSR introduces a novel approach that:
   <p><i>Figure 1: ThermoVisSR architecture showing the dual-stream processing of visible and thermal images with multi-scale texture transformers.</i></p>
 </div>
 
-### High-Frequency Texture Transformer (HFTT)
-
-<div align="center">
-  <img src="figures/HFFT.png" alt="HFTT Architecture" width="80%"/>
-  <p><i>Figure 2: The architecture of High-Frequency Texture Transformer showing correspondence matching and texture transfer.</i></p>
-</div>
-
-**Key Operations:**
-- Multi-scale correspondence matching between Q and K features
-- Selective HF texture transfer using hard attention
-- Channel-specific reconstruction via Separable Soft Decoder
-
-### Separable Soft Decoder (SSD)
-
-<div align="center">
-  <img src="figures/SSD.png" alt="SSD Architecture" width="60%"/>
-  <p><i>Figure 3: Separable Soft Decoder architecture enabling channel-specific detail enhancement.</i></p>
-</div>
-
-### Fusion Backbone
-
-<div align="center">
-  <img src="figures/FB.png" alt="Fusion Backbone" width="90%"/>
-  <p><i>Figure 4: Fusion Backbone architecture for extracting and merging low-frequency features from visible and thermal LR images.</i></p>
-</div>
 
 ---
 
