@@ -79,7 +79,7 @@ ThermoVisSR introduces a novel approach that:
 ### Visible Image Super-Resolution (4× Scale)
 
 <div align="center">
-  <img src="figures/SR4.png" alt="Visible SR Results - DJI Mavic" width="100%"/>
+  <img src="figures/SR4.png?v=2" alt="Visible SR Results - DJI Phantom" width="100%"/>
   <p><i>Figure 5: Visual comparison of SR approaches on visible image of DJI-Phantom4Pro (4× resolution)</i></p>
 </div>
 
