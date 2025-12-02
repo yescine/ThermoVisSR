@@ -80,26 +80,26 @@ ThermoVisSR introduces a novel approach that:
 
 <div align="center">
   <img src="figures/SR4.png" alt="Visible SR Results - DJI Mavic" width="100%"/>
-  <p><i>Figure 5: Visual comparison of SR approaches on visible image of DJI-Mavic (4× resolution). Our method preserves fine details like the front light while maintaining color accuracy.</i></p>
+  <p><i>Figure 5: Visual comparison of SR approaches on visible image of DJI-Phantom4Pro (4× resolution)</i></p>
 </div>
 
 ### Thermal Image Super-Resolution (4× Scale)
 
 <div align="center">
   <img src="figures/SR4-THR.png" alt="Thermal SR Results - DJI Phantom" width="100%"/>
-  <p><i>Figure 6: Visual comparison on thermal image of DJI-Phantom4Pro (4× resolution). Superior reconstruction of payload thermal characteristics.</i></p>
+  <p><i>Figure 6: Visual comparison on thermal image of DJI-Phantom4Pro (4× resolution)</i></p>
 </div>
 
 ### 8× Super-Resolution Results
 
 <div align="center">
   <img src="figures/SR8.png" alt="Visible 8× SR" width="100%"/>
-  <p><i>Figure 7: Visual comparison of SR methods on visible images at 8× resolution. ThermoVisSR maintains clarity even at high scaling factors.</i></p>
+  <p><i>Figure 7: Visual comparison of SR methods on visible images at 8× resolution</i></p>
 </div>
 
 <div align="center">
   <img src="figures/SR8-THR.png" alt="Thermal 8× SR" width="100%"/>
-  <p><i>Figure 8: Visual comparison of SR methods on thermal images at 8× resolution. Excellent edge preservation and minimal blur.</i></p>
+  <p><i>Figure 8: Visual comparison of SR methods on thermal images at 8× resolution</i></p>
 </div>
 
 ---
